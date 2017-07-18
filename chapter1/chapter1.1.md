@@ -6,10 +6,7 @@ HTMl可定义很多供格式化输出的元素，比如粗体和斜体字。
 
 ###1.1 文本格式化
 
-> 示例一 [提交代码](1_1.html)
-
-
-
+> 示例一 [提交代码](src/1_1.html)
 
 ```
 <html>
@@ -32,3 +29,5 @@ This text contains<sup>superscript</sup>
 </body>
 </html>
 ```
+* em强调内容
+* strong着重内容
